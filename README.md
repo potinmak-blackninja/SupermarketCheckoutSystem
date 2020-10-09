@@ -7,7 +7,7 @@
 
 
 
-# User Stories of using this app
+# User Stories of this app
 * As a **user** running the application
 * I can **add items to the basket**
 * So I can **buy some items**
