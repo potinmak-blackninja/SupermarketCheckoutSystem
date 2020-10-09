@@ -1,12 +1,7 @@
-This "wiremock" directory contains a set of tools that would allow you to spin up a mock JSON API and consume the relevant in any language you wish.
+# Introduction to Web Development
 
-./start.sh to start mock server
-./stop.sh to stop mock server
+This repository contains all of the code for each individual lesson and is broken into three sections. HTML, CSS, and Javascript. Each section contains a folder for each lesson that contains all the code for the project as of the end of that lesson.
 
-### List of all products
-**GET http://localhost:8081/products**
+The code in these projects is only meant as a reference and should not be directly copied. Instead you should be creating your own web site for your own favorite musician.
 
-### Product information
-**GET http://localhost:8081/products/{productId}**
-
-**Note:** The productIds of all items can be retrieved via the  **/products** call
+View the videos for this course [here](https://www.youtube.com/watch?v=HfTXHrWMGVY&list=PLZlA0Gpn_vH-cEDOofOujFIknfZZpIk3a).
