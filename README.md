@@ -22,6 +22,7 @@
 * I spent like a couple hours on running the program by testing it on Selenium.
 * I spent like three to four days completing this project. I started late and I knew that it is supposed to be
     completed like in a week, so that's why I had no time to make the app better.
+    Because meeting deadline is crucial in software engineering.
 * If I had more time I would definitely fix the promotions part in the application.
 * I think fetching API and reformat them in proper places are the most difficult part in the project.
 * I like the application, but I think if the task was given to a person who are just fresh grad
